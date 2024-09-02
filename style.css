@@ -12,19 +12,16 @@ body {
     font-family: 'Courier New', Courier, monospace;
     margin-bottom: 20px; 
     margin-top: 50px;   
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .subtitle {
     font-size: 25px;
     margin-bottom: 10px;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .details {
     font-size: 18px;
     margin-bottom: 50px;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 
@@ -60,7 +57,6 @@ ul.details {
 
 ul.details li {
     font-size: 18px;
-    color: #ffffff;
     margin-bottom: 10px;
 }
 
