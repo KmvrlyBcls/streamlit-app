@@ -19,7 +19,7 @@ dog3_video_path = 'videos/pet3_video.mp4'
 song1_path = 'songs/song1.mp3'
 song2_path = 'songs/song2.mp3'
 song3_path = 'songs/song3.mp3'
-resume_file = 'File/Resume.pdf'
+resume_file = 'Resume.pdf'
 
 
 st.markdown("""
